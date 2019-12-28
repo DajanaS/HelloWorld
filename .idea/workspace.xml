@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="703079d8-fa2c-44b3-8327-271ed678a2c5" name="Default Changelist" comment="" />
+    <list default="true" id="703079d8-fa2c-44b3-8327-271ed678a2c5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/finki/sample/ApplicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/finki/sample/ApplicationTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/finki/sample/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/finki/sample/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/finki/sample/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/finki/sample/Application.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +22,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VbjoJhMooqrNL7ssBnLgjnCsN8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,12 +34,19 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.ApplicationTest.getTextTest">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.finki.sample.Application" />
       <module name="HelloWorld" />
@@ -44,6 +63,23 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationTest.getTextTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.finki.sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.finki.sample" />
+      <option name="MAIN_CLASS_NAME" value="com.finki.sample.ApplicationTest" />
+      <option name="METHOD_NAME" value="getTextTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -66,6 +102,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ApplicationTest.getTextTest" />
         <item itemvalue="Application.Application" />
       </list>
     </recent_temporary>
@@ -92,7 +129,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577528861978</updated>
-      <workItem from="1577528866942" duration="104000" />
+      <workItem from="1577528866942" duration="1987000" />
     </task>
     <servers />
   </component>
@@ -100,38 +137,38 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1237" height="262" key="GridCell.Tab.0.bottom" timestamp="1577529065316">
+    <state width="1237" height="262" key="GridCell.Tab.0.bottom" timestamp="1577533476874">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1237" height="262" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1577529065316" />
-    <state width="1237" height="262" key="GridCell.Tab.0.center" timestamp="1577529065316">
+    <state width="1237" height="262" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1577533476874" />
+    <state width="1237" height="262" key="GridCell.Tab.0.center" timestamp="1577533476874">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1237" height="262" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1577529065316" />
-    <state width="1237" height="262" key="GridCell.Tab.0.left" timestamp="1577529065316">
+    <state width="1237" height="262" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1577533476874" />
+    <state width="1237" height="262" key="GridCell.Tab.0.left" timestamp="1577533476874">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1237" height="262" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1577529065316" />
-    <state width="1237" height="262" key="GridCell.Tab.0.right" timestamp="1577529065316">
+    <state width="1237" height="262" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1577533476874" />
+    <state width="1237" height="262" key="GridCell.Tab.0.right" timestamp="1577533476874">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1237" height="262" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1577529065316" />
-    <state width="1237" height="262" key="GridCell.Tab.1.bottom" timestamp="1577529065531">
+    <state width="1237" height="262" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1577533476874" />
+    <state width="1237" height="262" key="GridCell.Tab.1.bottom" timestamp="1577533476874">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1237" height="262" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1577529065531" />
-    <state width="1237" height="262" key="GridCell.Tab.1.center" timestamp="1577529065531">
+    <state width="1237" height="262" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1577533476874" />
+    <state width="1237" height="262" key="GridCell.Tab.1.center" timestamp="1577533476874">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1237" height="262" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1577529065531" />
-    <state width="1237" height="262" key="GridCell.Tab.1.left" timestamp="1577529065531">
+    <state width="1237" height="262" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1577533476874" />
+    <state width="1237" height="262" key="GridCell.Tab.1.left" timestamp="1577533476874">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1237" height="262" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1577529065531" />
-    <state width="1237" height="262" key="GridCell.Tab.1.right" timestamp="1577529065531">
+    <state width="1237" height="262" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1577533476874" />
+    <state width="1237" height="262" key="GridCell.Tab.1.right" timestamp="1577533476874">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1237" height="262" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1577529065531" />
+    <state width="1237" height="262" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1577533476874" />
     <state x="337" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1577528866951">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
